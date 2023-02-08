@@ -1,1 +1,1 @@
-echo # odin-recipes
+# odin-recipes
